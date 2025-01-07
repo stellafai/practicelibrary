@@ -8,7 +8,7 @@
     "url": "https://github.com/stellafai/practicelibrary/issues",
     "email": "hello@stellafai.com"
   },
-  "repository": "github:tenfourty/practicelibrary",
+  "repository": "github:stellafai/practicelibrary",
   "dependencies": {
     "@emotion/cache": "^11.10.5",
     "@emotion/react": "^11.10.5",
