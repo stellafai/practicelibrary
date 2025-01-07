@@ -3,7 +3,7 @@ require("dotenv").config({
 });
 
 module.exports = {
-  pathPrefix: `/practicelibrary`,
+  pathPrefix: ``,
   siteMetadata: {
     title: "Stellafai's Practice Library",
     description:
