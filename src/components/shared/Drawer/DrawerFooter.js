@@ -17,7 +17,7 @@ const DrawerFooter = () => (
     <List>
       <ListItemButton
         component="a"
-        href="https://www.jeremybrown.tech/newsletter/"
+        href="https://www.stellafai.com/"
       >
         <ListItemIcon>
           <Newspaper />
@@ -26,7 +26,7 @@ const DrawerFooter = () => (
       </ListItemButton>
       <ListItemButton
         component="a"
-        href="https://www.jeremybrown.tech/contact/"
+        href="https://www.stellafai.com/contact/"
       >
         <ListItemIcon>
           <Feedback />

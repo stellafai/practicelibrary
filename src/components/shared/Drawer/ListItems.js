@@ -22,12 +22,12 @@ const ListItems = ({ toggle }) => {
     <List data-testid="drawerPractices">
       <ListItemButton
         component="a"
-        href="https://www.jeremybrown.tech/"
+        href="https://www.stellafai.com/"
       >
         <ListItemIcon>
           <Home />
         </ListItemIcon>
-        <ListItemText primary="Back to Jeremy Brown" />
+        <ListItemText primary="Back to Stellafai" />
       </ListItemButton>
       <ListSubheader>
         <Typography variant="overline" color="primary">

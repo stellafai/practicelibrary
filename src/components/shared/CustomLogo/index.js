@@ -13,7 +13,7 @@ const CustomLogo = ({
 	<Link to="/">
 		<Box display="flex" alignItems="center" {...rest}>
 		  <Box width={small ? "2.5rem" : "5.5rem"}>
-			<img width="100%" src={LogoImage} alt="Jeremy Brown's Practice Library Logo" />
+			<img width="100%" src={LogoImage} alt="Stellafai's Practice Library Logo" />
 		  </Box>
 		  <Box
 			ml={small ? 1 : 2}
@@ -27,7 +27,7 @@ const CustomLogo = ({
 			}}
 			width={horizontal ? "100%" : "5rem"}
 		  >
-			Jeremy's Practice Library
+			Stellafai's Practice Library
 		  </Box>
 		</Box>
 	</Link>

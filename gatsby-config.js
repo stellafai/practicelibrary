@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   pathPrefix: `/practicelibrary`,
   siteMetadata: {
-    title: "Jeremy Brown's Practice Library",
+    title: "Stellafai's Practice Library",
     description:
       "Practices that empower teams to collaborate and deliver iteratively, a downstream project of the Open Practice Library",
   },

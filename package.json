@@ -1,12 +1,12 @@
 {
   "name": "practicelibrary",
-  "description": "Jeremy Brown's Practice Library web application",
+  "description": "Stellafai's Practice Library web application",
   "version": "2.2.0",
   "author": "Open Practice Library Community",
-  "homepage": "https://jeremybrown.tech/practicelibrary",
+  "homepage": "https://www.methods.stellafai.com",
   "bugs": {
-    "url": "https://github.com/tenfourty/practicelibrary/issues",
-    "email": "hi@jeremybrown.tech"
+    "url": "https://github.com/stellafai/practicelibrary/issues",
+    "email": "hello@stellafai.com"
   },
   "repository": "github:tenfourty/practicelibrary",
   "dependencies": {

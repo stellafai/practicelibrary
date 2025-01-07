@@ -21,7 +21,7 @@ Just like the code for the Open Practice Library, the code for this version of t
 
 ## Adding a Practice that already exists in the Open Practice Library
 
-As this is a curated version of the upstream Open Practice Library I've removed some of the practices, please [get in touch with me](https://www.jeremybrown.tech/contact/) if you think I should include it. I would be very happy to work with you to include the practice.
+As this is a curated version of the upstream Open Practice Library I've removed some of the practices, please [get in touch with us](https://www.stellafai.com/contact/) if you think I should include it. I would be very happy to work with you to include the practice.
 
 ## Adding a Practice to the Open Practice Library
 
@@ -29,7 +29,7 @@ The Open Practice Library is where all new practices should be added. Their [con
 
 It is really easy, no coding required.
 
-Once you have your practice added feel free to [contact me](https://www.jeremybrown.tech/contact/) if you want your practice added here too.
+Once you have your practice added feel free to [contact me](https://www.stellafai.com/contact/) if you want your practice added here too.
 
 ## Updating or Editing a Practice
 
@@ -39,6 +39,6 @@ The Open Practice Library, and by extension this practice library, benefits huge
 - Links to great articles and videos about the practice,
 - And most importantly, improvements to the article itself.
 
-If you've made changes to an upstream practice which I have in this library my period syncs should pick them up, if you are really keen to have your change accepted right away please do [contact me](https://www.jeremybrown.tech/contact/).
+If you've made changes to an upstream practice which I have in this library my period syncs should pick them up, if you are really keen to have your change accepted right away please do [contact me](https://www.stellafai.com/contact/).
 
 ### Note: All the links to "Improve this Practice" and the button below to "Start Now" are to the upstream [Open Practice Library](https://openpracticelibrary.com/)
