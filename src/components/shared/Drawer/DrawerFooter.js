@@ -31,7 +31,7 @@ const DrawerFooter = () => (
         <ListItemIcon>
           <Feedback />
         </ListItemIcon>
-        <ListItemText primary="Give me Feedback" />
+        <ListItemText primary="Give us Feedback" />
       </ListItemButton>
     </List>
   </Box>
