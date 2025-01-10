@@ -4,7 +4,7 @@ import { Box, Typography } from "@mui/material";
 const Intro = () => (
   <Box data-testid="pageGrid" width="100%" my={8}>
     <Typography gutterBottom>
-    This is an opinionated collection of practices aimed at changing human behaviours which drive customer-success and impact business results (also called outcomes). They are organised around the Mobius Loop model, which helps us navigate when to use each practice. 
+    This is an opinionated collection of practices aimed at changing human behaviours which drive customer-success and impact business results (also called outcomes). They are organised around the Mobius Loop model, which helps us navigate when to use each practice.
     </Typography>
     <Typography gutterBottom>
     We, Stellafai coaches, built this for people interested in understanding and adopting our Customer Success Operating System.  
