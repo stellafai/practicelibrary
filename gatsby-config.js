@@ -19,8 +19,12 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          process.env.GA_ID || "G-ABCDEFGHIJ", // Google Analytics / GA
+          process.env.GA_ID || "G-Y2TBGT9B4H", // Google Analytics / GA
         ],
+          gtagConfig: {
+          //anonymize_ip: true, // Anonymizes the IP address
+          cookie_expires: 0, // Sets the cookie expiration to 0
+        },
         // This object is used for configuration specific to this plugin
         pluginConfig: {
           // Defines where to place the tracking script - `true` in the head and `false` in the body
