@@ -11,7 +11,7 @@ export default function About(props) {
   return (
     <Layout
       ogContent={{
-        title: "Open Practice Library",
+        title: "Stellafai's Practice Library",
         desc:
           "Practices that empower teams to collaborate and deliver iteratively",
         image:
@@ -22,7 +22,7 @@ export default function About(props) {
         <HeroColor type="gradient" gradient={5}>
           <Container maxWidth="md">
             <Typography component="h1" variant="h3" data-testid="hellotext">
-              About My Practice Library
+              About the Stellafai Practice Library
             </Typography>
           </Container>
         </HeroColor>

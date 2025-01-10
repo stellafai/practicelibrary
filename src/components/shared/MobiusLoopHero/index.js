@@ -173,6 +173,15 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
               >
                 “Mobius Loop”
               </Link>{" "}
+              and{" "}
+              <Link
+                color="secondary"
+                href="http://openpracticelibrary.com"
+                rel="noopener"
+                target="_blank"
+              >
+                “Open Practice Library”
+              </Link>{" "}
               is licensed under{" "}
               <Link
                 color="secondary"

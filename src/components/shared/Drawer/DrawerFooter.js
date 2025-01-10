@@ -17,12 +17,12 @@ const DrawerFooter = () => (
     <List>
       <ListItemButton
         component="a"
-        href="https://www.stellafai.com/"
+        href="https://app.stellafai.com/"
       >
         <ListItemIcon>
           <Newspaper />
         </ListItemIcon>
-        <ListItemText primary="Subscribe to my Newsletter" />
+        <ListItemText primary="Launch Stellafai Application" />
       </ListItemButton>
       <ListItemButton
         component="a"

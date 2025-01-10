@@ -27,7 +27,7 @@ const OPLMobius = () => (
     Being downstream of the Open Practice Library means that any additions and modifications to the practices in this practice library should be made upstream in the Open Practice Library project.
     </Typography>
     <Typography gutterBottom>
-    As this is a curated version of the original, I have removed some of the practices in the Open Practice Library to provide a more opinionated subset of their practices, which I feel flow well together. As the Open Practice Library and this project are based on the experience of its contributors, if you feel that I'm missing a crucial practice from the upstream project, please get in touch so we can work to get it added here. Likewise, if the Open Practice Library lacks a practice you think should be included, please contribute there. Then, I would be very happy to work with you to include it here as well.
+    As this is a curated version of the original, we have removed some of the practices in the Open Practice Library to provide a more opinionated subset of their practices, which we feel flow well together to provide a customer success operating system. As the Open Practice Library and this project are based on the experience of its contributors, if you feel that we're missing a crucial practice from the upstream project, please get in touch so we can work to get it added here. Likewise, if the Open Practice Library lacks a practice you think should be included, please contribute there. Then, we would be very happy to work with you to include it here as well.
     </Typography>
   </Box>
 );

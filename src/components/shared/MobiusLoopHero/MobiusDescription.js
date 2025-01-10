@@ -4,15 +4,15 @@ const MobiusDescription = () => (
   <Box>
     <Box marginBottom={2}>
       <Typography align="center" variant="h5" component="h3" gutterBottom>
-        The Mobius Loop
+        Welcome to the Stellafai Practice Library
       </Typography>
       <Divider />
     </Box>
     <Typography gutterBottom variant="body2">
-      An iterative process model for rapidly developing digital products.
+      A set of reusable practices inspired by the Open Practice Library.
     </Typography>
     <Typography gutterBottom variant="body2">
-      The Practice Library is organized around this model.
+      This Practice Library is organized around the Mobius Loop - an iterative process model for rapidly learning and delivering customer success.
     </Typography>
     <Typography variant="body2">
       The buttons below will show you practices that fall on the relevant part

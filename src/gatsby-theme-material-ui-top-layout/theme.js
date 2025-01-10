@@ -28,14 +28,14 @@ const theme = createTheme({
     },
     secondary: {
       dark: "#29009a",
-      main: "#07EFA9",
+      main: "#F0B93F",
       light: "#9b63ff",
     },
     error: {
       main: "#FA2E77",
     },
     warning: {
-      main: "#F0B93F",
+      main: "#0085FF",
     },
     info: {
       main: "#bac9ff",
@@ -44,20 +44,20 @@ const theme = createTheme({
       main: "#76F598",
     },
     foundationcolor: {
-      dark: "#0085FF",
-      main: "#0085FF",
+      dark: "#",
+      main: "#",
       light: "#5d55bd",
     },
     discoverycolor: {
       dark: "#29009a",
-      main: "#07EFA9",
+      main: "#F0B93F",
       light: "#9b63ff",
     },
     optionscolor: {
       main: "#FA2E77"
     },
     deliverycolor: {
-      main: "#F0B93F"
+      main: "#0085FF"
     },
     grey: {
       main: grey[300],
@@ -131,10 +131,10 @@ const theme = createTheme({
   ],
   linearGradient: [
     "linear-gradient(135deg, #bdbdbd 0%, #eeeeee 100%)",
-    "linear-gradient(135deg, #0085FF 0%, #5d55bd 100%)",
-    "linear-gradient(135deg, #07EFA9 0%, #9b63ff 100%)",
+    "linear-gradient(135deg, # 0%, #5d55bd 100%)",
+    "linear-gradient(135deg, #F0B93F 0%, #9b63ff 100%)",
     "linear-gradient(135deg, #FA2E77 0%, #ff5bbd 100%)",
-    "linear-gradient(135deg, #F0B93F 0%, #ff9f65 100%)",
+    "linear-gradient(135deg, #0085FF 0%, #ff9f65 100%)",
     "linear-gradient(135deg, #5A0203 0%, #FC1D1E 100%)"
   ],
   shape: {

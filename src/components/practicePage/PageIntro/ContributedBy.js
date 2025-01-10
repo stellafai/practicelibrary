@@ -35,7 +35,7 @@ export default function ContributedBy(props) {
         alignItems="flex-end"
       >
         <Box mr={2}>
-          <Typography variant="overline">Contributed by</Typography>
+          <Typography variant="overline">Originally contributed by</Typography>
           <Grid item>
             <Box display="flex" flexDirection="row">
               {contributors &&
@@ -59,7 +59,7 @@ export default function ContributedBy(props) {
         )}
         <Grid item>
           <Typography variant="overline" data-testid={"dates"}>
-            Published{" "}
+            First published on {" "}
             {props.preview ? formatDate(props.createdAt) : props.createdAt}
           </Typography>
         </Grid>

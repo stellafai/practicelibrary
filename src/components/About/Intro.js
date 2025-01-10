@@ -4,22 +4,20 @@ import { Box, Typography } from "@mui/material";
 const Intro = () => (
   <Box data-testid="pageGrid" width="100%" my={8}>
     <Typography gutterBottom>
-    This is an opinionated collection of practices aimed at changing human behaviours which impact business results (also called outcomes). They are organised around the Mobius Loop model, which helps us navigate when to use each practice.
+    This is an opinionated collection of practices aimed at changing human behaviours which drive customer success and impact business results (also called outcomes). They are organised around the Mobius Loop model, which helps us navigate when to use each practice.
     </Typography>
     <Typography gutterBottom>
-    I, Jeremy Brown, built this first and foremost for myself to help me refer back to practices I regularly use.
+    We, Stellafai coaches, built this for people interested in understanding and adopting our Customer Success Operating System.  
     </Typography>
     <Typography gutterBottom>
-    On my website, I've regularly referred to various practices in the Open Practice Library. At the same time, the Open Practice Library is a collection of many different practices, quite an overwhelming collection of them in fact. This is because of the vibrant community of folks that have contributed over the years. I am hugely proud of this since the Open Practice Library is a result of the work I was part of in Red Hat's Open Innovation Labs.
+    In our application and during our coaching, we often reference methods that drive high performance in teams and customer and organisational success. These methods are all catalogiued in the Open Practice Library (with many articles contributed by Stellafai coaches). The Open Practice Library is a collection of many different practices, quite an overwhelming collection of them in fact. This is because of the vibrant community of folks that have contributed over the years. We remain hugely proud of this since the Open Practice Library is a result of the work many of our coaches did was part of in Red Hat's Open Innovation Labs.
     </Typography>
     <Typography gutterBottom>
-    I wanted to create a more opinionated subset of practices that I feel are relevant to the way I work and how I coach teams to work. This isn't to mean that these are the best practices, far from it. However I have a lot of experience using them and they fit logically together.
+    We wanted to create a more opinionated subset of practices that are focussed on the use case of customer success and we feel are relevant to the way we work and how we coach teams to align, focus connect and measure customer success outcomes. 
     </Typography>
     <Typography gutterBottom>
-    While you can level many criticisms at Agile frameworks such as Scrum, they are a great way for teams starting out to get going. I always say Scrum is a great place for teams to start, but if they are still doing Scrum by the book in six months then they are not using the full power of their retrospectives to evolve how they work for their circumstances.
     </Typography>
     <Typography gutterBottom>
-    In the same way I plan to provide some breadcrumb trails for teams to use to navigate the loop. However these are mean as jumping off points and should be adapted over time.
     </Typography>
   </Box>
 );

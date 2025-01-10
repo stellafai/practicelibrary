@@ -7,11 +7,10 @@ const Who = () => (
     Who is this meant for?
     </Typography>
     <Typography gutterBottom>
-    The practices in this library are meant to "empower teams to collaborate and deliver iteratively". That can mean a lot of things to a lot of different kinds of people. And this Practice Library can help all of them:
+    The practices in this library are meant to "empower teams to collaborate and deliver measurable success iteratively". That can mean a lot of things to a lot of different kinds of people. And this Practice Library can help all of them:
     <ul>
       <li>A product manager who needs to build the right thing, the right way.</li>
       <li>An engineering manager who wants to get everyone’s input toward and aligned to the same goal and then find ways to coordinate the delivery of the team.</li>
-      <li>A technical leader who is</li>
       <li>A stakeholder who needs a roadmap to deliver metrics-based business outcomes.</li>
       <li>For everyone, these practices are created, tested and shared by the people who use them day-to-day.</li>
     </ul>
