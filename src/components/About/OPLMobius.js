@@ -9,10 +9,10 @@ const OPLMobius = () => (
     How This Library Relates to the Open Practice Library and the Mobius Loop
     </Typography>
     <Typography gutterBottom>
-    This practice library is a downstream curated version of the Open Practice Library, which itself is based on the Mobius Loop.
+    The Stellafai Practice Library is a curated, downstream version of the Open Practice Library, which is itself based on the Mobius Loop.
     </Typography>
     <Typography gutterBottom>
-    Except where noted, content on this site is licensed under a{" "}
+    Unless otherwise noted, content on this site is licensed under a {" "}
       <Link
         href="https://creativecommons.org/licenses/by-sa/4.0/"
         target="_blank"
@@ -24,11 +24,9 @@ const OPLMobius = () => (
     International license.
     </Typography>
     <Typography gutterBottom>
-    Being downstream of the Open Practice Library means that any additions and modifications to the practices in this practice library should be made upstream in the Open Practice Library project.
-    </Typography>
+    As a downstream project, any additions or modifications to practices in this library should be made upstream in the Open Practice Library. While this library presents a more focused and opinionated subset of the practices, we invite feedback from the community. If you believe a key practice is missing, let us know so we can evaluate adding it here.   </Typography>
     <Typography gutterBottom>
-    As this is a curated version of the original, we have removed some of the practices in the Open Practice Library to provide a more opinionated subset of their practices, which we feel flow well together to provide a customer success operating system. As the Open Practice Library and this project are based on the experience of its contributors, if you feel that we're missing a crucial practice from the upstream project, please get in touch so we can work to get it added here. Likewise, if the Open Practice Library lacks a practice you think should be included, please contribute there. Then, we would be very happy to work with you to include it here as well.
-    </Typography>
+    Similarly, if the Open Practice Library lacks a practice you feel is essential, we encourage you to contribute directly to the upstream project. We’ll be delighted to collaborate with you to include it in this library.    </Typography>
   </Box>
 );
 

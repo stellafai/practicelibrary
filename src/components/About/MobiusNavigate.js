@@ -9,10 +9,10 @@ const MobiusNavigate = () => (
     The Mobius Loop Helps Navigate The Practices
     </Typography>
     <Typography gutterBottom>
-    All of the practices in this library can be mapped to the Mobius Loop. The Mobius Loop is a navigator created by an open-source community to visualise a way of working that focuses on generating outcomes by working in a continuous flow of learning from discovery to options to delivery. The Open Practice Library added a layer, the "Foundation" of cultural and technical practices.
+    Every practice in this library is mapped to the Mobius Loop—a navigation model developed by an open-source community. The Mobius Loop provides a visual framework for generating outcomes by fostering a continuous flow of learning, from discovery to options to delivery. The Open Practice Library added a foundational layer of cultural and technical practices to this model.
     </Typography>
     <Typography gutterBottom>
-    Practices can be mapped to one of four parts of the loop:
+    Practices in the Stellafai Practice Library are categorized into four parts of the loop:
     </Typography>
     <Box my={4}>
           <MobiusLoopHero showContent={false} />

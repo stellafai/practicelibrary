@@ -4,18 +4,18 @@ import { Box, Typography, List, ListItem, ListItemText } from "@mui/material";
 const Who = () => (
   <Box data-testid="pageGrid" width="100%" my={8}>
     <Typography gutterBottom variant="h4" component="h3" color="primary">
-    Who is this meant for?
+    Who Is This For?
     </Typography>
     <Typography gutterBottom>
-    The practices in this library are meant to "empower teams to collaborate and deliver measurable success iteratively". That can mean a lot of things to a lot of different kinds of people. And this Practice Library can help all of them:
+    The practices in this library are designed to empower Customer Success Managers (CSMs), teams, and leaders to collaborate and deliver measurable success iteratively. Whether you’re managing customer relationships, driving adoption, or ensuring alignment with business outcomes, this library provides practical guidance and tools. Here’s how it can help:
     <ul>
-      <li>A product manager who needs to build the right thing, the right way.</li>
-      <li>An engineering manager who wants to get everyone’s input toward and aligned to the same goal and then find ways to coordinate the delivery of the team.</li>
-      <li>A stakeholder who needs a roadmap to deliver metrics-based business outcomes.</li>
-      <li>For everyone, these practices are created, tested and shared by the people who use them day-to-day.</li>
+      <li>Customer Success Managers: Build strong relationships, drive customer adoption, and deliver measurable outcomes by aligning strategies with customer goals.</li>
+      <li>Customer Success Leaders: Guide teams to operate effectively, foster alignment across departments, and scale customer success initiatives to achieve consistent results.</li>
+      <li>Account Managers: Identify and address customer challenges, ensure seamless renewals, and uncover upsell opportunities through collaborative practices.</li>
+      <li>Implementation Teams: Use structured approaches to streamline onboarding, reduce time-to-value, and ensure successful product adoption.</li>
+      <li>Customer Stakeholders: Gain clarity on roadmaps and leverage metrics-based insights to measure success and improve collaboration with success teams.</li>
     </ul>
-    The practices are for the people looking to be inspired with new ideas to create better experiences. And anyone who wants to find innovative, proven ways to solve their challenges, big and small.
-    </Typography>
+    These practices are created, tested, and shared by individuals actively working in customer success. Whether you’re looking for innovative ideas to address customer challenges, improve team performance, or drive better outcomes, this library serves as a trusted resource.    </Typography>
   </Box>
 );
 
