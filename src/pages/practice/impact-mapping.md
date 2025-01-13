@@ -8,53 +8,79 @@ authors:
   - mtakane
   - rdebeasi
   - valyonchev
+  - tdbeattie
 tags:
   - value
 mobiusTag: discovery
 icon: /images/impact-mapping.jpeg
 whatIs: >-
-  Impact Mapping is an engaging, graphical, strategic planning technique. It was
-  introduced by Gojko Adzic in 2012. At the end of the impact map, you should
-  have:
+  Impact Mapping is an engaging, graphical, strategic planning technique introduced by Gojko Adzic in 2012. It helps cross-functional teams align on goals and outcomes by focusing on behavioral changes necessary for success. At the end of an impact mapping session, you should have:
 
 
-  * A shared understand of your effort's goal or problem statement
 
-  * An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name
 
-  * Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts
+  * A shared understanding of your effort’s goal or problem statement
 
-  * Some sort of prioritization of scope and/or impacts
+  * An inventory of human behavioral changes required (or avoided) to achieve success—these are the “impacts” the technique is named for.
 
-  * A physical or digital diagram with the above information
+  * Optionally, an inventory of project scope items needed to achieve the impacts.
+
+  * A prioritization of scope and/or impacts.
+
+  * A physical or digital diagram capturing the above.
 whyDo: >-
-  * Most planning activities revolve around juggling a "shopping list of
-  features," as Gojko calls them. Even though the features are delivered, often
-  the business objective is not achieved. Impact Mapping reorients us towards
-  delivering value, not delivering features.
+  In customer-centric roles like Customer Success, Sales, and Product, teams often focus on delivering a “shopping list of features.” Yet even when those features are delivered, the intended business outcome may not be achieved. Impact Mapping reorients teams around delivering measurable value, making it particularly valuable for aligning cross-functional teams around customer outcomes.
+  
+  
+  Key benefits include:
+  
+  - **Customer-Centric Conversations**: Impact Mapping introduces a lightweight design thinking approach, enabling teams to focus on outcomes rather than outputs. This is essential for aligning Sales, Onboarding, Product, and Customer Success teams around shared goals for customer success.  
 
-  * Impact Mapping introduces a very simple human centered design process, and as such, it is a great way to put lightweight design thinking techniques into practice
 
-  * It's a graphical mind map, which reduces the barrier to entry for participants and facilitators alike
+  - **Improved Collaboration**: The visual, graphical mind map format reduces barriers to participation and makes it easier to facilitate meaningful discussions.
 
-  * The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. It can also be run in a 4-6 hour session with Project Sponsors in the early stages of product development planning. These are just two of endless possible variations of the technique.
 
-  * It is an excellent way to allow leadership and autonomous teams to have a conversation around strategic priorities and how they translate into the work of the team.
+  - **Versatility**: Impact Mapping works for executive-level strategic planning or shorter, more tactical sessions. For example, it can be used to define onboarding goals that align with Sales commitments and Product capabilities.
 
-  * The focus on Impacts for key actors translates well into outcomes.
 
-  * Impact Mapping is a way for leaders to practice leadership by intent (ref [David Marquet](https://www.davidmarquet.com/))
+  - **Outcome Orientation**: By emphasizing impacts for key actors (e.g., customers or internal teams), the technique naturally drives outcomes-driven conversations.
+
+
+  - **Leadership Alignment**: It fosters leadership by intent (ref [David Marquet](https://www.davidmarquet.com/) and ensures alignment at both strategic and tactical levels.
+
+
+
 howTo: >-
   ### Who do you need?
 
 
-  * Facilitator
+  * **Facilitator**: Ideally a neutral party with experience in impact mapping.
 
-  * Product Owner
+  * **Product Owner**: Brings insights into product capabilities and constraints.
 
-  * Project Sponsor, both technical and business
+  * **Project Sponsor**: Includes both technical and business perspectives.
 
-  * Architects
+  * **Architects**: Provide guidance on feasibility and constraints.
+  
+
+
+  
+  ### How Impact Mapping Aligns Teams for Outcomes-Driven Customer Conversations
+  
+  Impact Mapping is particularly effective for aligning Sales, Onboarding, Product, and Customer Success teams by fostering discussions around **what behavioral changes are needed to achieve success.**
+  
+  ### Examples:
+
+
+  * **Sales**: Use Impact Mapping to identify the promises made to customers during the sales process and ensure they align with the delivery teams’ understanding.
+
+  * **Onboarding**: Map out the behavioral changes customers need to adopt your product successfully, creating clarity around onboarding priorities.
+  
+  * **Product**: Collaborate with Product teams to ensure the features being built are tied to measurable impacts on customer outcomes.
+
+  * **Customer Success**: Drive conversations about long-term success metrics and connect them to onboarding and product roadmaps.
+
+
 
 
   ### Suggested Time
@@ -62,19 +88,15 @@ howTo: >-
 
   For the shortened variation:
 
+  * **2-4 hours prep**: Define the goal or problem statement ahead of the session to avoid losing focus.
 
-  * 2-4 hours of prep to establish a goal or problem statement *before* the session. This is important, or your session will go sideways!
-
-  * optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
-
-  * ~4 Hours to facilitate the session, not including breaks
-
-  * Facilitate in small sessions @ around 60-90 minutes each
-
+  * **Optional 2 hours**: Create a draft impact map for initial discussions.
+  
+  * **4-hour session**: Facilitate the workshop in 60-90 minute segments, either in one day or spread across multiple days.
+  
   * Session can be done on different days
 
-
-  *For the executive level session format, see the Impact Mapping book in the links section below.*
+  * For the executive level session format, see the Impact Mapping book in the links section below.
 
 
   ### Difficulty
@@ -112,33 +134,17 @@ howTo: >-
   * Typically done in the Why area of the Discovery of the Open Practice Library
 
 
-  ### Tips for remote sessions
-
-
-  Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft GOAL done by your Product Owner.
-
-
-  It works well if you have stakeholders and a multifunctional team, but it could be difficult to gather all data in one session. You can evaluate to running the practice 2 to 3 times with an interval between each iteration to allow people to review and fill the gaps.
-
-
-  The facilitator will become a single point of failure if he/she is the only one updating the map.
-
-
-  You probably need more time than the one it takes for a face-to face session.
-
-
-  Be sure everyone is aware of commands to move multiple sticky-notes in a large map.
-
+ 
 
   ### Related Practices
 
 
   * [Start At The End](/practice/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/impact-mapping-questions.jpg?raw=true
   - link: https://youtu.be/pmSS69Dh71Q
   - link: https://youtu.be/N8fxzeZh4Kc
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Impact%20Mapping.jpeg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/impact-mapping-questions.jpg?raw=true
 resources:
   - link: https://www.impactmapping.org/book.html
     linkType: web
