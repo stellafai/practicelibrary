@@ -6,7 +6,7 @@ subtitle: Align people around a shared ambitious goal and then maintain focus
 date: 2023-08-07T14:08:25.440Z
 authors:
   - stellabella2022
-  - ""
+  - tdbeattie
 tags:
   - value
   - measure
@@ -14,8 +14,7 @@ tags:
 mobiusTag: discovery
 icon: /images/okr-triangle-1-.png
 whatIs: >-
-  OKRs are a collaborative goal-setting framework for organisations, teams and
-  individuals to set challenging, ambitious goals with measurable results. 
+  OKRs are a collaborative goal-setting framework for organizations, teams, and individuals to set challenging, ambitious goals with measurable results. For a Customer Success leader, OKRs are a powerful tool to align cross-functional teams like Sales, Onboarding, Product, and Customer Success, ensuring everyone works toward shared, customer-focused outcomes.
 
 
   O﻿KRs have two parts:
@@ -25,30 +24,29 @@ whatIs: >-
 
   2. **T﻿he Key Result** - The how. The success criteria used to measure progress towards your outcome.
 whyDo: >-
-  Communication - OKRs connect strategy and execution by enabling the
-  communication of your strategy to every person
+  For Customer Success Leaders, OKRs help ensure alignment and drive focus across multiple teams. Here’s how OKRs can make an impact:
+  
+  * **Communication**: OKRs connect strategy and execution by enabling clear communication of your customer-centric goals across Sales, Onboarding, Product, and Customer Success teams.
 
 
-  **Focus** - Prioritising less, so you make big progress on less things, versus slight progress on lots of things.
+  * **Focus**: By prioritizing fewer objectives, your teams can make meaningful progress on high-impact goals, instead of spreading efforts thin.
 
 
-  **Align** - Have everyone moving in the same direction as a team, aiming for the same Objectives and measureing progress with the same Key Results. They also help teams know what is happening around them (up, down and sideways), so teams can align and collaborate more easily. 
+  * **Alignment**: OKRs create transparency, ensuring all teams work toward the same objectives and measure progress with shared Key Results. They also improve cross-team awareness (up, down, and sideways), enabling better collaboration.
 
 
-  **C﻿ommitment -** When you are part of a team defining the problem you are going to solve, and there is clarity on how success is defined. You have the ingredients for autonomy and empowerment. People will naturally commit.
+  * **Commitment**: When teams contribute to defining OKRs, they develop a sense of ownership and accountability. This fosters autonomy, empowerment, and intrinsic motivation.
 
 
-  **Track** - Know how you are doing, so you can change if you need to. This transparency also fosters accountability... there are no locked cupboards or water melon reports
+  * **Tracking**: OKRs provide visibility into progress, enabling teams to pivot if necessary. Transparency fosters accountability—no locked cupboards or “watermelon reports” (green on the outside, red on the inside).
 
 
-  **R﻿esults** - S﻿etting stretch goals and maintaining focus on them, will inspire and motivate people to do great work.  I﻿ndeed, teams that consistently used goal setting frameworks can achieved a 3X increase in productivity in 12 months (Source: Align)
+  * **Results**: Setting stretch goals inspires and motivates teams to achieve exceptional outcomes. In fact, teams consistently using OKRs can achieve up to a 3x increase in productivity within 12 months (Source: Align).
+  
+  
 howTo: >-
-  Writing OKRs should be a bottom-up (80%) and top-down (20% process).  So
-  thinking about the top-down, you should definitely make sure you have sight of
-  the draft OKRs at the level above your team so you can align. If it's not
-  clear, then have a chat with someone or ideally get them to present to your
-  team as it's really key that your team all understand what bigger outcomes
-  your team is working towards. 
+  Writing OKRs is a **collaborative**, top-down (20%) and bottom-up (80%) process. Customer Success leaders play a critical role in setting the tone for alignment across teams. Here’s how:
+
 
 
   ## Step 1
@@ -102,7 +100,7 @@ howTo: >-
   For each Objective, brainstorm key results.  Use dot voting and 1-2-4-All practices to iterate to a set of 3-5 Key Results. Key Results take all the inspirational language in your Objective and quantify it. To create, ask: “*How would we know if we met our Objective?*” Generally ideate as a group for KRs, iterate to final wording and numbers solo or in a pair.
 
 
-  #### G﻿ood Key Results Guidance
+  ## G﻿ood Key Results Guidance
 
 
   1. Q﻿uantitative measurement of value - Measure desired outcomes and impact, i.e. results, not tasks completed.  Consider how your stakeholders/customers/users measure success. 
@@ -127,6 +125,23 @@ howTo: >-
 
 
   N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince or an external expert.
+
+
+
+  ## How OKRs Align Teams for Outcomes-Driven Conversations
+
+  A Customer Success leader can use OKRs to break silos and ensure alignment across Sales, Onboarding, Product, and Customer Success teams. For example:
+
+  * **Sales**: Align OKRs to ensure commitments during the sales cycle reflect realistic onboarding and product capabilities.
+
+  * **Onboarding**: Focus on measurable goals like reducing time-to-value or ensuring customers adopt key features.
+
+  * **Product**: Align development priorities with customer success metrics, ensuring features directly support outcomes.
+
+  * **Customer Success**: Set OKRs to track customer satisfaction, retention, and expansion efforts.
+
+  
+
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/Stellafai%20KR%20rules.png
 resources:
