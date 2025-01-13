@@ -17,7 +17,7 @@ whatIs: >-
 
   * Metrics-Based Process Mapping (MBPM) is a detailed process mapping practice that captures process steps, responsible actors, and key time and quality metrics. It’s a third-generation lean process improvement technique that can be optimized for extended organizational transformation efforts.
 
-  * At its core, MBPM provides a structured way to document and analyze processes, creating a clear baseline for performance metrics and helping teams identify areas for improvement.
+  * At its core, MBPM provides a structured way to document and analyze processes, creating a clear baseline for performance metrics and helping teams identify areas for improvement. 
 
 whyDo: >-
   MBPM serves as a powerful tool to:
