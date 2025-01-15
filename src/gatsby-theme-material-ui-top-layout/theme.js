@@ -44,8 +44,8 @@ const theme = createTheme({
       main: "#76F598",
     },
     foundationcolor: {
-      dark: "#",
-      main: "#",
+      dark: "#9881F2",
+      main: "#9881F2",
       light: "#5d55bd",
     },
     discoverycolor: {
@@ -131,7 +131,7 @@ const theme = createTheme({
   ],
   linearGradient: [
     "linear-gradient(135deg, #bdbdbd 0%, #eeeeee 100%)",
-    "linear-gradient(135deg, # 0%, #5d55bd 100%)",
+    "linear-gradient(135deg, #9881F2 0%, #5d55bd 100%)",
     "linear-gradient(135deg, #F0B93F 0%, #9b63ff 100%)",
     "linear-gradient(135deg, #FA2E77 0%, #ff5bbd 100%)",
     "linear-gradient(135deg, #0085FF 0%, #ff9f65 100%)",
