@@ -28,7 +28,7 @@ const PracticesWithDataTags = (props) => {
         title: tag,
         desc: `Practices under the ${tag} section of the mobius loop in the Open Practice Library`,
         image:
-          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+          "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png",
       }}
     >
       <Practices {...props} {...dataProps}>

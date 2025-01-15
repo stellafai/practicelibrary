@@ -35,7 +35,7 @@ const Layout = ({ ogContent, children }) => (
         content={
           ogContent && ogContent.image
             ? ogContent.image
-            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/672c9fc0380ad92a8f9f2922_webclip.png"
+            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png"
         }
       />
       <meta
@@ -43,7 +43,7 @@ const Layout = ({ ogContent, children }) => (
         content={
           ogContent && ogContent.image
             ? ogContent.image
-            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/672c9fc0380ad92a8f9f2922_webclip.png"
+            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png"
         }
       />
       <meta name="twitter:card" content="summary_large_image" />

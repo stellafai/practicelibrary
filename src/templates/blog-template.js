@@ -53,7 +53,7 @@ const BlogPostTemplate = (props) => {
         desc: excerpt,
         image: image
           ? image.src
-          : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+          : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png",
       }}
     >
       <Box display="flex" flexDirection="column">

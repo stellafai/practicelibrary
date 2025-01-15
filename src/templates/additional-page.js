@@ -47,7 +47,7 @@ const AdditionalPage = (props) => {
         title: "Open Practice Library",
         desc: "Practices that empower teams to collaborate and deliver iteratively",
         image:
-          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+          "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png",
       }}
     >
       <Box data-testid="additionalPage" display="flex" flexDirection="column">

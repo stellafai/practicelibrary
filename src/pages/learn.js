@@ -29,7 +29,7 @@ const Learn = () => (
       <meta property="og:site_name" content="Open Practice Library" />
       <meta
         property="og:image"
-        content="https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
+        content="https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/678802be15ab7c598dd2edf4_stellafaiOg.png"
       />
       <meta name="twitter:card" content="summary_large_image" />
     </Helmet>
