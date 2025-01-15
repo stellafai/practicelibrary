@@ -35,7 +35,7 @@ const Layout = ({ ogContent, children }) => (
         content={
           ogContent && ogContent.image
             ? ogContent.image
-            : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
+            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/672c9fc0380ad92a8f9f2922_webclip.png"
         }
       />
       <meta
@@ -43,7 +43,7 @@ const Layout = ({ ogContent, children }) => (
         content={
           ogContent && ogContent.image
             ? ogContent.image
-            : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
+            : "https://cdn.prod.website-files.com/66fd74636f0cd08e0279e29f/672c9fc0380ad92a8f9f2922_webclip.png"
         }
       />
       <meta name="twitter:card" content="summary_large_image" />

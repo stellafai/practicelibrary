@@ -22,7 +22,7 @@ module.exports = {
           process.env.GA_ID || "G-Y2TBGT9B4H", // Google Analytics / GA
         ],
           gtagConfig: {
-          //anonymize_ip: true, // Anonymizes the IP address
+          anonymize_ip: true, // Anonymizes the IP address
           cookie_expires: 0, // Sets the cookie expiration to 0
         },
         // This object is used for configuration specific to this plugin
