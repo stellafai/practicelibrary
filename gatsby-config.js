@@ -39,7 +39,7 @@ module.exports = {
           fonts: {
             google: [
               {
-                family: `Inter`,
+                family: `Work Sans  `,
                 variants: [`300`, `400`, `500`, `600`, `700`],
               },
             ],
