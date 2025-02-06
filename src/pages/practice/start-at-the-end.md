@@ -7,42 +7,39 @@ authors:
   - sherl0cks
   - infosec812
   - mtakane
+  - tdbeattie
 tags: []
 mobiusTag: discovery
 icon: /images/all-icons_-start-end.png
 whatIs: >-
-  Start At The End is a simple exercise to identify a set of assumptions which
-  must be tested in order achieve a long term goal. It's a rather simple
-  exercise, which asks participants to describe what success looks like for
-  their work, and use this to define the goal of the effort. We default to 12
-  months, but it can be longer or shorter. Then, the exercise asks participants
-  to imagine all the ways their project can fail, and using the results to
-  enumerate key questions or assumptions that must be examined at the start of
-  the work. The technique is derived from Chapter 4 of The Sprint Book. At the
-  end of the exercise, you will have:
+  Start At The End is a simple exercise to identify key assumptions that must be tested 
+  to achieve customer success goals. It asks CS teams to describe what successful 
+  customer outcomes look like, and use this to define their success strategies. We 
+  typically look 12 months ahead, but it can be shorter or longer depending on customer 
+  lifecycle. Then, teams imagine all the ways customers might fail to achieve success, 
+  using these insights to identify key risks and assumptions that must be examined 
+  early. At the end of the exercise, you will have:
 
+  * A shared understanding of what customer success looks like for your key segments
 
-  * A shared understanding of your effort's goal.
+  * A list of critical assumptions about customer adoption, retention, and growth that 
+    need to be validated early
 
+  * A prioritized set of success metrics and leading indicators to track
 
-  * A list of key questions or assumptions that need to be examined early in the work effort in order for the team to achieve the goal.
-
-
-  * A prioritization of the key questions.
 whyDo: >-
-  * Most planning activities revolve around juggling a "shopping list of
-  features," as Gojko Adzic calls them in [Impact
-  Mapping](/practice/impact-mapping/). Even though the features are delivered,
-  often the business objective is not achieved. Start At The End gives us a
-  light weight approach to put the business value at the center of our work and
-  make sure that assumptions that could lead to failure are clearly identified
-  for examination.
+  * Most CS planning activities focus on managing a "list of activities" rather than 
+    driving measurable customer outcomes. Start At The End helps teams put customer 
+    success at the center of their work and identify assumptions that could lead to 
+    churn or missed expansion opportunities.
 
+  * Start At The End is quick to facilitate but yields valuable insights. It's great 
+    for CS leaders who are new to facilitating workshops or teams that need to 
+    quickly align on customer success goals.
 
-  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
+  * This activity helps CS teams envision what successful customer outcomes look like 
+    and build proactive strategies to achieve them.
 
-
-  * This activity helps you and your team envision what the future will look like when you will reach success.
 howTo: >-
   ### Tips
 
@@ -117,17 +114,30 @@ aliases:
 ---
 ## What is it?
 
-Start At The End is a simple exercise to identify a set of assumptions which must be tested in order achieve a long term goal. It's a rather simple exercise, which asks participants to describe what success looks like for their work, and use this to define the goal of the effort. We default to 12 months, but it can be longer or shorter. Then, the exercise asks participants to imagine all the ways their project can fail, and using the results to enumerate key questions or assumptions that must be examined at the start of the work. The technique is derived from Chapter 4 of The Sprint Book[<sup>1</sup>](#footnote-1). At the end of the exercise, you will have:
+Start At The End is a simple exercise to identify key assumptions that must be tested 
+to achieve customer success goals. It asks CS teams to describe what successful 
+customer outcomes look like, and use this to define their success strategies. We 
+typically look 12 months ahead, but it can be shorter or longer depending on customer 
+lifecycle. Then, teams imagine all the ways customers might fail to achieve success, 
+using these insights to identify key risks and assumptions that must be examined 
+early. At the end of the exercise, you will have:
 
-- A shared understanding of your effort's goal
-- A list of key questions or assumptions that need to be examined early in the work effort in order for the team to achieve the goal.
-- A prioritization of the key questions
+- A shared understanding of what customer success looks like for your key segments
+- A list of critical assumptions about customer adoption, retention, and growth that 
+  need to be validated early
+- A prioritized set of success metrics and leading indicators to track
 
 ## Why use Start At The End?
 
-- Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practice/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to put the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination.
-- Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
-- This activity helps you and your team envision what the future will look like when you will reach success.
+- Most CS planning activities focus on managing a "list of activities" rather than 
+  driving measurable customer outcomes. Start At The End helps teams put customer 
+  success at the center of their work and identify assumptions that could lead to 
+  churn or missed expansion opportunities.
+- Start At The End is quick to facilitate but yields valuable insights. It's great 
+  for CS leaders who are new to facilitating workshops or teams that need to 
+  quickly align on customer success goals.
+- This activity helps CS teams envision what successful customer outcomes look like 
+  and build proactive strategies to achieve them.
 
 ## Tips
 
@@ -137,7 +147,7 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 
 ## Tips for Remote Working
 
-- Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
+- Remote facilitation doesn't differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
 - Prepare in advance a template on a whiteboard tool with title and steps and be crystal clear about what you expect providing examples
 - Use the timer visible to all attendees
 - Start with the Start at the end and apply the Affinity Map practice below to group topics
